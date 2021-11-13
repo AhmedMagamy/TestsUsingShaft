@@ -1,0 +1,10 @@
+Headers:
+_______________
+
+Content-Type=*/*
+
+Query Parameters:
+_______________
+
+animal_type=cat
+amount=1
